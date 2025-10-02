@@ -199,6 +199,15 @@ namespace Assignment_1_c_
             //}
 
             // 20. Write a program that demonstrates the difference between shallow copy and deep copy on an integer array.
+            //int[] originalArray = { 1, 2, 3, 4, 5 };
+            //int[] shallowCopy = originalArray; // Both reference the same array
+            //int[] deepCopy = (int[])originalArray.Clone(); // New array with copied values
+            //originalArray[0] = 99;
+            //Console.WriteLine("After modifying original array:");
+            //Console.WriteLine($"Original Array: {originalArray[0]}");
+            //Console.WriteLine($"Shallow Copy: {shallowCopy[0]}");
+            //Console.WriteLine($"Deep Copy: {deepCopy[0]}");
+
 
 
 
